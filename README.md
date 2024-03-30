@@ -10,6 +10,12 @@
 - [FreeType 2.13.0+](https://freetype.org/)
 - [GLEW 2.1.0+](https://glew.sourceforge.net/)
 
+### Debian/Ubuntu
+
+```bash
+sudo apt install libsdl2-dev libglew-dev libfreetype-dev
+```
+
 ## POSIX
 
 ```console
